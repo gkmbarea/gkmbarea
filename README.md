@@ -107,4 +107,4 @@ Curso **Análise e Desenvolvimento de Sistemas na UCS**, em andamento.
 
 ## Contato
 
-[E-mail](mailto:guibarea22@hotmail.com) · [GitHub](https://github.com/gkmbarea)
+[E-mail](mailto:gkmbarea@ucs.br) · [GitHub](https://github.com/gkmbarea)
