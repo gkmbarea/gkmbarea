@@ -16,7 +16,7 @@ Minha experiência anterior em suporte técnico me aproximou da resolução de p
 | Engenharia de software | Requisitos, UML, orientação a objetos e organização em camadas |
 | Testes | Estudos e aplicação acadêmica de TDD, BDD e conceitos de DDD |
 | Dados e IA | NumPy, Pandas, Matplotlib e estudos com scikit-learn |
-| Ferramentas | Git, GitHub, VS Code e Google Colab |
+| Ferramentas | Git, GitHub, VS Code, Google Colab, Eclipse, Notebook LM, GPT, Gemini |
 
 ## Projetos em destaque
 
