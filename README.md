@@ -24,7 +24,7 @@ Minha experiência anterior em suporte técnico me aproximou da resolução de p
 
 Projeto acadêmico em desenvolvimento para apoiar pessoas com dificuldades de comunicação por meio de gestos.
 
-- **Tecnologias da versão atual:** Python, Tkinter e SQLite.
+- **Tecnologias:** Python, Tkinter, SQLite e MediaPipe.
 - Estrutura organizada em modelos, telas e controladores, com cadastro de usuários, cuidadores e pacientes.
 - **Minha responsabilidade inicial na equipe:** back-end e regras de negócio.
 - O reconhecimento de gestos faz parte do objetivo do projeto e está em desenvolvimento pela equipe.
